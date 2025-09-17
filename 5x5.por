@@ -1,5 +1,5 @@
 programa {
-  const inteiro C=5, L=5
+  const inteiro C=6, L=6
   funcao inicio() {
     inteiro num [C][L]
     inteiro pes
@@ -13,7 +13,7 @@ programa {
       }
       escreva("\n")
      }
-     escreva ("Escolha um número para ser encontrado: ")
+     escreva ("Escolha um número para ser encontrado!!!: ")
      leia (pes)
        para (inteiro i=0; i<C; i++){
         para (inteiro j=0;j<L;j++){

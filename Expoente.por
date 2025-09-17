@@ -11,9 +11,9 @@ programa {
   funcao inicio() {
     inteiro ba, ex
 
-    escreva ("Digite a base:\n ")
+    escreva ("Digite a baseeeee:\n ")
     leia (ba)
-    escreva ("Digite o expoente:\n ")
+    escreva ("Digite o expoenteeee:\n ")
     leia (ex)
     escreva (base_expo(ba, ex))
      
